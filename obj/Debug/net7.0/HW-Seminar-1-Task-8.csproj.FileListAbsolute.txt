@@ -1,0 +1,15 @@
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\bin\Debug\net7.0\HW-Seminar-1-Task-8.exe
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\bin\Debug\net7.0\HW-Seminar-1-Task-8.deps.json
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\bin\Debug\net7.0\HW-Seminar-1-Task-8.runtimeconfig.json
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\bin\Debug\net7.0\HW-Seminar-1-Task-8.dll
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\bin\Debug\net7.0\HW-Seminar-1-Task-8.pdb
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.csproj.AssemblyReference.cache
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.AssemblyInfoInputs.cache
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.AssemblyInfo.cs
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.csproj.CoreCompileInputs.cache
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.dll
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\refint\HW-Seminar-1-Task-8.dll
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.pdb
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\HW-Seminar-1-Task-8.genruntimeconfig.cache
+C:\!Results\IT HW\C#\Homeworks\first\task8\HW-Seminar-1-Task-8\obj\Debug\net7.0\ref\HW-Seminar-1-Task-8.dll
